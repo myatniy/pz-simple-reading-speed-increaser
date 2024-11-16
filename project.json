@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Konijima/project-zomboid-studio/master/pzstudio.schema.json",
+  "title": "Simple Reading Speed Increaser",
+  "authors": [],
+  "workshop": {
+    "visibility": "public",
+    "tags": ["Build 41"],
+    "excludes": []
+  },
+  "mods": {
+    "simple-reading-speed-increaser": {
+      "name": "Simple Reading Speed Increaser",
+      "description": ""
+    }
+  }
+}
